@@ -16,12 +16,14 @@ We can use ``train_evaluation.ipynb`` to train the classifiers for automatic cla
 Lastly, we can use ``evaluation.ipynb`` and ``all_evaluation.ipynb`` to evaluate the human and automatic evaluations
 
 ```diff
-- This is research code and might therefore not be fully complete. For questions and full results contact the author.
+Note:
+- This is research code and might therefore not be fully complete. 
+- For questions and full results contact the author.
 ```
 
 ## Authors
 
-* **Chi Sam Mac** - [Bitbucket](https://github.com/cs-mac/) - [E-Mail](chisam_mac@hotmail.com) - [LinkedIn](https://www.linkedin.com/in/chi-sam-mac/)
+* **Chi Sam Mac** - [Github](https://github.com/cs-mac/) - [E-Mail](chisam_mac@hotmail.com) - [LinkedIn](https://www.linkedin.com/in/chi-sam-mac/)
 
 ## License
 
