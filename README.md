@@ -2,6 +2,8 @@
 
 Code for my Master's Thesis Information Science at the University of Groningen.
 
+![header image](https://github.com/cs-mac/Unsupervised_Style_Transfer/blob/main/complete_model_overview.png)
+
 ### How to run the models
 First preprocess the data using: ``preprocess.py``
 
